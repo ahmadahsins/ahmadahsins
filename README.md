@@ -73,7 +73,7 @@ As part of the #GoDigital movement, I want to ensure every UMKM has access to pr
 
 </div>
 
-<h2><img src="https://user-images.githubusercontent.com/73696489/153699723-f8f95732-e42a-458c-8551-991cc657758f.gif" width="40px" />GitHub Trophies</h2>
+<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Trophy.png" alt="Trophy" width="25" height="25" /> GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=ahmadahsins&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&title=-Issues,-Reviews,-PullRequest
