@@ -32,6 +32,7 @@ As part of the #GoDigital movement, I want to ensure every UMKM has access to pr
   <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=for-the-badge" height="35" alt="react logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=for-the-badge" height="35" alt="nextjs logo"  />
+  <img src="https://img.shields.io/badge/Astro-20232A?style=for-the-badge&logo=Astro&logoColor=BC52EE" height="35" alt="astro logo"  />
 </div>
 
 ### Backend
@@ -40,6 +41,7 @@ As part of the #GoDigital movement, I want to ensure every UMKM has access to pr
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="35" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white&style=for-the-badge" height="35" alt="express logo"  />
+  <img src="https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white" height="35" alt="nestjs logo"  />
 </div>
 
 ### Database & Tools
@@ -58,8 +60,8 @@ As part of the #GoDigital movement, I want to ensure every UMKM has access to pr
   <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=for-the-badge" height="35" alt="docker logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" height="35" alt="chatgpt logo">
-<img width="12" />
-    <img src="https://img.shields.io/static/v1?message=claude&logo=claude&label=&color=C96442&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+  <img width="12" />
+  <img src="https://img.shields.io/static/v1?message=claude&logo=claude&label=&color=C96442&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
 </div>
 
 <h2><img src="https://emojis.slackmojis.com/emojis/images/1643515883/19011/statistics.gif?1643515883" align="center" width="28" /> GitHub Stats </h2>
