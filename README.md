@@ -1,6 +1,6 @@
 <h2> Hey! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Raising%20Hands.png" alt="Raising Hands" width="30" height="30" /> It's me Ahmad </h2>
 
-![Ahmad Ahsin Dev](images/banner.png)
+![Ahmad Ahsin Dev](images/banner.jpg)
 
 <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="25" height="25" /> About Me</h2>
 
